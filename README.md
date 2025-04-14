@@ -1,4 +1,4 @@
-# HomeBuilderBlinds Intelligence Suite
+# SignalForge
 
 **Comprehensive Signal Aggregation and Innovation Mapping System for Real Asset Operators, Vendors, and Strategic Builders**
 
